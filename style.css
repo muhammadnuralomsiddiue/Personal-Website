@@ -1,0 +1,193 @@
+li{
+    display: block;
+    float: right;
+    padding-inline-end: 3%;
+    background-color: white;
+}
+li a{
+    text-decoration: none;
+    color: #3C3C3C;
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-size: 70px;
+    font-weight: 700; 
+    font-family: 'Bebas Neue', cursive;
+    height: 60px
+    
+}
+p{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    color: #3E3E3E;
+}
+h2{
+    font-weight: 900;
+    font-size: 30px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 5%;
+    
+}
+#profile1{
+    width: 100%;
+}
+#profile2{
+    width: 100%;
+}
+#intro-highlight{
+    color:  #363958;
+}
+#name-highlight{
+    color: #FF8367;
+}
+#about-highlight{
+    color: #363958;
+}
+#working-project-highliht{
+    color: #363958;
+}
+.link-button{
+    text-decoration: none;
+    padding: 15px 40px;
+    border: 2px solid salmon;
+    background-image: linear-gradient(lightsalmon, tomato);
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
+.cv-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+    width: 170px;
+    height: 60px;
+    left: 135px;
+    top: 442px;
+    margin-top: 2%;
+    border-color: lightsalmon;
+}
+#latest-work-width{   
+    background-color: rgb(239, 244, 247);
+    float: left;
+    height: 1000px;
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+}
+#latest-work-tag{
+    padding-top: 5%;
+}
+#latest-highlight{
+    color: #fa7a5d;
+}
+.working-site-highlight{
+    font-weight: bolder;
+    
+}
+.image-width{
+    float: left;
+    width: 30%;
+    border: white 2px solid;
+    background-color: white;
+    box-shadow: gray 5px 5px 10px;
+    margin-left: 10%;
+    border-radius: 25px;
+    text-align: justify;
+    padding: 5px; 
+    width: 370px;
+    height: 374px;
+    left: 535px;
+    top: 1454px;
+    padding: 1%;
+    margin-top: 5%;
+
+
+}
+.image-width img{
+    width: 100%;
+    
+}
+#latest-work-width{
+    align-items: center;
+}
+#latest-work-width h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #363958;
+    
+}
+#latest-work-width p{
+    color: #6C6C6C;
+}
+#work-inquiry{
+    float: left;
+    width: 906px;
+    height: 225px;
+    background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+    margin-left: 25%;
+    margin-top: 5%;
+    border-radius: 30px;
+
+}
+#work-inquiry h1{
+    font-size: 50px;
+    text-align: left;
+    color: white;
+}
+.work-inquiry-item{
+    float: left;
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+#work-inquiry{
+    background-image: url(shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#chat-button{
+    padding: 15px 30px;
+    background-image: linear-gradient(lightsalmon, tomato);
+    align-items: flex-end;
+    border-radius: 8px;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}
+#last-part{
+    width: 100%;
+    float: left;
+    margin-top: 3%;
+    text-align: center;
+}
+#last-part h3{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 24px;
+    color:  #696871;
+}
+#last-part h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    color: #363958;
+}
+.icons{
+    width: 2%;
+    margin-left: 10px;
+    margin-bottom: 5%;
+}
